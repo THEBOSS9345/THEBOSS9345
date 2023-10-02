@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Warrior Heaven](https://github.com/Warrior-Heaven/)
 
-- 🌱 I’m currently learning **C#/C++**
+- 🌱 I’m currently learning **C/swift**
 
 - 🤝 I’m looking for help with [Warrior Heaven](https://github.com/Warrior-Heaven/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/THEBOSS9345/](https://github.com/THEBOSS9345/)
-
-- 💬 Ask me about **Minecraft Addons and Ai**
+ 
+- 💬 Ask me about **Minecraft Addons | BackEnd | Ai**
 
 - 📫 How to reach me **theboss9345git@gmail.com**
 
