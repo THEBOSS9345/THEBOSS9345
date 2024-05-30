@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Reaper Skyblock](https://github.com/Reaper-SkyBlock)
 
-- 🌱 I’m currently learning **Mongo**
+- 🐻 I’m currently learning **GO**
 
 - 🤝 I’m looking for help with [Reaper Skyblock](https://github.com/Reaper-SkyBlock)
 
