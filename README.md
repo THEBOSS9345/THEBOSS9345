@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm THE BOSS9345</h1>
 <h3 align="center">A passionate backend developer from Canadia</h3>
 
-- 🔭 I’m currently working on [Reaper Skyblock](https://github.com/Reaper-SkyBlock)
-
-- 🐻 I’m currently learning **GO**
-
-- 🤝 I’m looking for help with [Reaper Skyblock](https://github.com/Reaper-SkyBlock)
-
 - 👨‍💻 All of my projects are available at [https://github.com/THEBOSS9345?tab=repositories)
  
 - 💬 Ask me about **Minecraft Addons | BackEnd | Ai**
