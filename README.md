@@ -5,7 +5,7 @@
 
 - 💬 Feel free to ask me about **Minecraft Addons, Backend Development**
 
-- 📫 Reach me at **theboss9345git@gmail.com**
+- 📫 Reach me at **Discord (the_boss9345)**
 
 ---
 
