@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/THEBOSS9345?tab=repositories)
 
-- 💬 Feel free to ask me about **Minecraft Addons, Backend Development, or AI**
+- 💬 Feel free to ask me about **Minecraft Addons, Backend Development**
 
 - 📫 Reach me at **theboss9345git@gmail.com**
 
