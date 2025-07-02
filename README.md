@@ -10,7 +10,9 @@
   <br>  
   💬 Ask me about <strong>Minecraft Addons, Backend Development</strong>  
   <br>  
-  📫 Reach me on <strong>Discord: the_boss9345</strong>  
+  📫 Reach me on <strong>Discord: the_boss9345</strong>
+  <br>
+  🌐 MyWebsite <a href="https://theboss9345.com" target="_blank">https://theboss9345.com</a>
 </p>
 
 ---
