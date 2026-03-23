@@ -9,11 +9,10 @@
 <p align="center">
   🚀 Check out my projects on <a href="https://github.com/THEBOSS9345?tab=repositories"><strong>GitHub</strong></a>  
   <br>  
-  💬 Ask me about <strong>Minecraft Addons, Backend Development</strong>  
+  💬 Ask me about <strong>Backend Development</strong>  
   <br>  
   📫 Reach me on <strong>Discord: the_boss9345</strong>
   <br>
-  🌐 MyWebsite <a href="https://theboss9345.com" target="_blank">https://theboss9345.com</a>
 </p>
 
 ---
