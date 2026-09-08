@@ -1,95 +1,84 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00ADD8&center=true&vCenter=true&width=650&lines=THEBOSS9345;BUILDING+IN+GO;NETWORKS+%2B+GAME+SERVERS" alt="THEBOSS9345" />
-
-<br>
+<h2>THE BOSS9345</h2>
 
 <p>
-  <b>Backend developer</b> · Go · TypeScript · C++
+  Backend Developer · Go · TypeScript · C++
   <br>
-  Building high-performance software, network tooling & Minecraft infrastructure.
+  <sub>High-performance software · Networking · Minecraft infrastructure</sub>
 </p>
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,cpp,tauri,linux&theme=dark">
+</p>
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,cpp,tauri,linux&theme=dark" />
-
-<br><br>
-
-<a href="https://discord.com/users/the_boss9345">
-<img src="https://img.shields.io/badge/DISCORD-the__boss9345-5865F2?style=flat-square&logo=discord&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=THEBOSS9345&label=PROFILE%20VIEWS&color=00ADD8&style=flat-square" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="70%" />
+<p>
+  <a href="https://discord.com/users/the_boss9345">
+    <img src="https://img.shields.io/badge/Discord-the__boss9345-5865F2?style=flat-square&logo=discord&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=THEBOSS9345&label=Views&color=00ADD8&style=flat-square">
+</p>
 
 </div>
 
-### Projects
+---
+
+<h3 align="center">Projects</h3>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-**[SpotScoop](https://github.com/THEBOSS9345/SpotScoop)**
-Spotify downloader & terminal UI
-`Go`
+<a href="https://github.com/THEBOSS9345/SpotScoop"><b>SpotScoop</b></a> <br> <sub>Spotify downloader & TUI</sub> <br> <code>Go</code>
 
 </td>
-<td width="50%">
 
-**[mcpe-skinapi](https://github.com/THEBOSS9345/mcpe-skinapi)**
-Minecraft Bedrock skin renderer
-`Go`
+<td align="center" width="50%">
+
+<a href="https://github.com/THEBOSS9345/mcpe-skinapi"><b>mcpe-skinapi</b></a> <br> <sub>Minecraft Bedrock skin renderer</sub> <br> <code>Go</code>
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-**[endstone-js](https://github.com/THEBOSS9345/endstone-js)**
-JavaScript support for Bedrock servers
-`C++`
+<tr>
+<td align="center">
+
+<a href="https://github.com/THEBOSS9345/endstone-js"><b>endstone-js</b></a> <br> <sub>JavaScript support for Bedrock servers</sub> <br> <code>C++</code>
 
 </td>
-<td width="50%">
 
-**[telus-cam](https://github.com/THEBOSS9345/telus-cam)**
-WebRTC camera library
-`Go`
+<td align="center">
+
+<a href="https://github.com/THEBOSS9345/telus-cam"><b>telus-cam</b></a> <br> <sub>WebRTC camera library</sub> <br> <code>Go</code>
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-**[worldscraper-engine](https://github.com/THEBOSS9345/worldscraper-engine)**
-Web crawler with a Tauri interface
-`Go` · `Tauri`
+<tr>
+<td align="center">
+
+<a href="https://github.com/THEBOSS9345/worldscraper-engine"><b>worldscraper-engine</b></a> <br> <sub>Web crawler & desktop UI</sub> <br> <code>Go</code> · <code>Tauri</code>
 
 </td>
-<td width="50%">
 
-**Currently experimenting with**
-Networking · proxies · protocols · game infrastructure
+<td align="center">
+
+<b>Networking</b> <br> <sub>Protocols · Proxies · Infrastructure</sub> <br> <code>Go</code>
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="70%" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/?username=THEBOSS9345&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long">
 
-<br>
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/?username=THEBOSS9345&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long" />
-&nbsp;
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=THEBOSS9345&theme=radical&layout=compact" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=THEBOSS9345&theme=radical&layout=compact">
 
 </div>
