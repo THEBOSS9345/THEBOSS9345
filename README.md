@@ -1,32 +1,95 @@
-<p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1618472373247073081/80B15A6B90BEBE45757BE1E124B7CCBE05D40148/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="400"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=00ADD8&center=true&vCenter=true&width=650&lines=THEBOSS9345;BUILDING+IN+GO;NETWORKS+%2B+GAME+SERVERS" alt="THEBOSS9345" />
+
+<br>
+
+<p>
+  <b>Backend developer</b> · Go · TypeScript · C++
+  <br>
+  Building high-performance software, network tooling & Minecraft infrastructure.
 </p>
 
-<h1 align="center">Hi 👋, I'm THE BOSS9345</h1>
-<h3 align="center">Backend Developer | Go & TypeScript Specialist</h3>
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,cpp,tauri,linux&theme=dark" />
 
-## About Me
+<br><br>
 
-Backend developer from Canada specializing in **Go** and **TypeScript/Node.js**. I build scalable backend solutions and have deep experience with network protocols and distributed systems.
+<a href="https://discord.com/users/the_boss9345">
+<img src="https://img.shields.io/badge/DISCORD-the__boss9345-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=THEBOSS9345&label=PROFILE%20VIEWS&color=00ADD8&style=flat-square" />
 
-💬 Ask me about Backend Development, Go, TypeScript, Network Programming  
-📫 Reach me on Discord: **the_boss9345**
+<br><br>
 
----
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="70%" />
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-</p>
+### Projects
 
-**Specializations:** Backend APIs • Network Protocols • Systems Architecture • Desktop Apps
+<table>
+<tr>
+<td width="50%">
 
----
+**[SpotScoop](https://github.com/THEBOSS9345/SpotScoop)**
+Spotify downloader & terminal UI
+`Go`
 
-🚀 Always learning, always building better solutions!
+</td>
+<td width="50%">
+
+**[mcpe-skinapi](https://github.com/THEBOSS9345/mcpe-skinapi)**
+Minecraft Bedrock skin renderer
+`Go`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[endstone-js](https://github.com/THEBOSS9345/endstone-js)**
+JavaScript support for Bedrock servers
+`C++`
+
+</td>
+<td width="50%">
+
+**[telus-cam](https://github.com/THEBOSS9345/telus-cam)**
+WebRTC camera library
+`Go`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[worldscraper-engine](https://github.com/THEBOSS9345/worldscraper-engine)**
+Web crawler with a Tauri interface
+`Go` · `Tauri`
+
+</td>
+<td width="50%">
+
+**Currently experimenting with**
+Networking · proxies · protocols · game infrastructure
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="70%" />
+
+<br>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/?username=THEBOSS9345&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long" />
+&nbsp;
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=THEBOSS9345&theme=radical&layout=compact" />
+
+</div>
