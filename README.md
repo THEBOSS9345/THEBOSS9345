@@ -37,7 +37,7 @@
 
 <td align="center" width="50%">
 
-<a href="https://github.com/THEBOSS9345/mcpe-skinapi"><b>mcpe-skinapi</b></a> <br> <sub>Minecraft Bedrock skin renderer</sub> <br> <code>Go</code>
+<a href="https://github.com/THEBOSS9345/bedrock-skin-go"><b>bedrock-skin-go</b></a> <br> <sub>Minecraft Bedrock skin renderer</sub> <br> <code>Go</code>
 
 </td>
 </tr>
