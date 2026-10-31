@@ -23,6 +23,16 @@
 
 ---
 
+<h3 align="center">Building now</h3>
+
+<div align="center">
+
+<a href="https://github.com/helix-bedrock"><b>Helix</b></a> <br>
+<sub>Open-source Minecraft: Bedrock Edition server engine. BDS, but better: the same mechanics, one-to-one, with access to everything from the lowest level to the highest.</sub> <br>
+<code>Go</code>
+
+</div>
+
 <h3 align="center">Projects</h3>
 
 <div align="center">
