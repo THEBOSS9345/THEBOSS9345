@@ -8,20 +8,7 @@
   <sub>High-performance software · Networking · Minecraft infrastructure</sub>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,cpp,tauri,linux&theme=dark">
-</p>
-
-<p>
-  <a href="https://discord.com/users/the_boss9345">
-    <img src="https://img.shields.io/badge/Discord-the__boss9345-5865F2?style=flat-square&logo=discord&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=THEBOSS9345&label=Views&color=00ADD8&style=flat-square">
-</p>
-
 </div>
-
----
 
 <h3 align="center">Building now</h3>
 
@@ -68,5 +55,22 @@
 <img height="160" src="https://github-stats-extended.vercel.app/api/?username=THEBOSS9345&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&disable_animations=true&number_format=long">
 
 <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=THEBOSS9345&theme=radical&layout=compact">
+
+</div>
+
+<div align="center">
+
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,cpp,tauri,linux&theme=dark">
+</p>
+
+<p>
+  <a href="https://discord.com/users/the_boss9345">
+    <img src="https://img.shields.io/badge/Discord-the__boss9345-5865F2?style=flat-square&logo=discord&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=THEBOSS9345&label=Views&color=00ADD8&style=flat-square">
+</p>
 
 </div>
