@@ -27,9 +27,37 @@
 
 <div align="center">
 
-<a href="https://github.com/helix-bedrock"><b>Helix</b></a> <br>
-<sub>Open-source Minecraft: Bedrock Edition server engine. BDS, but better: the same mechanics, one-to-one, with access to everything from the lowest level to the highest.</sub> <br>
-<code>Go</code>
+<table>
+<tr>
+<td align="center" width="640">
+<br>
+<a href="https://github.com/helix-bedrock">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helix-bedrock/brand/main/helix-wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/helix-bedrock/brand/main/helix-wordmark-light.svg" alt="Helix" width="220">
+  </picture>
+</a>
+<br><br>
+<b>Minecraft: Bedrock Edition server engine</b>
+<br>
+<sub>BDS, but better: the same mechanics one-to-one, with access to everything from the lowest level to the highest.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Bedrock-1.26.60-black?style=flat-square">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/multi--core-regions-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/status-building-orange?style=flat-square">
+<br><br>
+<a href="https://github.com/helix-bedrock/helix"><code>helix</code></a> ·
+<a href="https://github.com/helix-bedrock/protocol"><code>protocol</code></a> ·
+<a href="https://github.com/helix-bedrock/world"><code>world</code></a> ·
+<a href="https://github.com/helix-bedrock/worldgen"><code>worldgen</code></a> ·
+<a href="https://github.com/helix-bedrock/entity"><code>entity</code></a> ·
+<a href="https://github.com/helix-bedrock/raknet"><code>raknet</code></a> ·
+<a href="https://github.com/helix-bedrock/nethernet"><code>nethernet</code></a>
+<br><br>
+</td>
+</tr>
+</table>
 
 </div>
 
